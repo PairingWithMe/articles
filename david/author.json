@@ -1,5 +1,9 @@
 {
   "name": "David SG",
   "username": "david",
-  "photo": "author.jpeg"
+  "photo": "author.jpeg",
+  "social": {
+    "twitter": "PairingWithMe",
+    "linkedin": "davidsgbr"
+  }
 }
