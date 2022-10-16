@@ -1,5 +1,3 @@
-# David SG
-
 I started coding when I was 12 years old and have never stopped. I got my first professional job when I was 15, while I was in high school. I tried different universities, but I ended up dropping off all of them. 
 
 I think not the best, but the only way to learn to code is by doing that as much as you can. I have more than 20 years of experience and am still spending at least 10 hours a day coding and a little more during the weekends. I am learning new things every day, and I absolutely love that.
