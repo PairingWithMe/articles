@@ -3,5 +3,29 @@
     "title": "Hello World",
     "author": "david",
     "date": "2022-10-15",
-    "banner": "banner.jpeg"
+    "banner": "banner.jpeg",
+    "timeline": [
+        [
+            {
+                "type": "code",
+                "lang": "javascript",
+                "file": "hello.js"
+            },
+            {
+                "type": "doc",
+                "file": "step1.md"
+            }
+        ],
+        [
+            {
+                "type": "code",
+                "lang": "javascript",
+                "file": "test.js"
+            },
+            {
+                "type": "doc",
+                "file": "step2.md"
+            }
+        ]
+    ]
   }
