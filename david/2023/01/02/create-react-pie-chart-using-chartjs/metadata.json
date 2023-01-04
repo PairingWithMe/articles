@@ -28,7 +28,7 @@
       },
       {
         "type": "code",
-        "lang": "javascript",
+        "lang": "jsx",
         "file": "GenreApi.js"
       }
     ],
@@ -39,7 +39,7 @@
       },
       {
         "type": "code",
-        "lang": "javascript",
+        "lang": "jsx",
         "file": "GenrePieChart.js"
       }
     ]
