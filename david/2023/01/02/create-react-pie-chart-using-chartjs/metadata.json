@@ -1,0 +1,47 @@
+{
+  "url": "create-react-pie-chart-using-chartjs",
+  "title": "Create react pie chart using chart.js",
+  "author": "david",
+  "date": "2023-01-02",
+  "banner": "banner.jpeg",
+  "timeline": [
+    [
+      {
+        "type": "doc",
+        "file": "data-structure.md"
+      },
+      {
+        "type": "code",
+        "lang": "json",
+        "file": "genres-class-alpha.json"
+      },
+      {
+        "type": "code",
+        "lang": "json",
+        "file": "genres-class-beta.json"
+      }
+    ],
+    [
+      {
+        "type": "doc",
+        "file": "api-mock-response.md"
+      },
+      {
+        "type": "code",
+        "lang": "javascript",
+        "file": "GenreApi.js"
+      }
+    ],
+    [
+      {
+        "type": "doc",
+        "file": "pie-chart.md"
+      },
+      {
+        "type": "code",
+        "lang": "javascript",
+        "file": "GenrePieChart.js"
+      }
+    ]
+  ]
+}
