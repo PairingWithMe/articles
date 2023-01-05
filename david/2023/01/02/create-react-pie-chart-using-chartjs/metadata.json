@@ -3,7 +3,7 @@
   "title": "Create react pie chart using chart.js",
   "author": "david",
   "date": "2023-01-02",
-  "banner": "banner.jpeg",
+  "banner": "img/banner.jpeg",
   "timeline": [
     [
       {
@@ -13,12 +13,12 @@
       {
         "type": "code",
         "lang": "json",
-        "file": "genres-class-alpha.json"
+        "file": "data/genres-class-alpha.json"
       },
       {
         "type": "code",
         "lang": "json",
-        "file": "genres-class-beta.json"
+        "file": "data/genres-class-beta.json"
       }
     ],
     [
@@ -29,7 +29,7 @@
       {
         "type": "code",
         "lang": "jsx",
-        "file": "GenreApi.js"
+        "file": "code/GenreApi.js"
       }
     ],
     [
@@ -40,7 +40,18 @@
       {
         "type": "code",
         "lang": "jsx",
-        "file": "GenrePieChart.js"
+        "file": "code/GenrePieChart.js"
+      }
+    ],
+    [
+      {
+        "type": "doc",
+        "file": "main-app.md"
+      },
+      {
+        "type": "code",
+        "lang": "jsx",
+        "file": "code/App.js"
       }
     ]
   ]

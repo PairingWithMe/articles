@@ -1,6 +1,6 @@
 # Create react pie chart using chart.js
 
-![banner](banner.jpeg)
+![banner](img/banner.jpeg)
 
 ## Install packages
 
@@ -13,4 +13,4 @@ npm install chart.js react-chartjs-2
 
 ## Creating React Charts
 
-![Favorite Genre by Film Classes Chart](charts.png)
+![Favorite Genre by Film Classes Chart](img/charts.png)
