@@ -46,6 +46,17 @@
     [
       {
         "type": "doc",
+        "file": "pie-chart-refactoring.md"
+      },
+      {
+        "type": "code",
+        "lang": "jsx",
+        "file": "code/GenrePieChartRefactored.js"
+      }
+    ],
+    [
+      {
+        "type": "doc",
         "file": "main-app.md"
       },
       {
