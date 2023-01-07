@@ -32,7 +32,7 @@ The regular pie chart only requires one single item in the array, like in our co
 ]
 ```
 
-In this block we can see three main fields:
+In this block, we can see three main fields:
 
 * *label*: is the label of the value of the slice.
 * *data*: is the array of the values of all slices. The order should match the order of labels defined in line 29.

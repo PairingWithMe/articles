@@ -2,15 +2,11 @@
 
 ![banner](img/banner.jpeg)
 
-## Install packages
+## *Problem:* how to create a pie chart in react?
 
-* [chart.js](https://www.npmjs.com/package/chart.js) 
-* [react-chartjs-2](https://www.npmjs.com/package/react-chartjs-2)
-
-```bash
-npm install chart.js react-chartjs-2
-```
-
-## Creating React Charts
+This is a simple solution on how to implement a react pie chart using chart.js. 
+The idea here is to give you the enough information to build your own pie chart using chart.js.
+We are answering the basic questions, so you will be able to create the initial version of the chart, 
+and in case you need something else, more specific, you can easier extend our example.
 
 ![Favorite Genre by Film Classes Chart](img/charts.png)

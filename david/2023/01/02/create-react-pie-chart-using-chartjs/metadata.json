@@ -64,6 +64,12 @@
         "lang": "jsx",
         "file": "code/App.js"
       }
+    ],
+    [
+      {
+        "type": "doc",
+        "file": "conclusion.md"
+      }
     ]
   ]
 }
