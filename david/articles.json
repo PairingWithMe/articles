@@ -1,5 +1,12 @@
 [
   {
+    "url": "create-react-pie-chart-using-chartjs",
+    "title": "Create react pie chart using chart.js",
+    "author": "david",
+    "date": "2023-01-02",
+    "banner": "img/banner.jpeg"
+  },
+  {
     "url": "hello-world",
     "title": "Hello World",
     "author": "david",

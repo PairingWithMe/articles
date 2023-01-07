@@ -1,5 +1,7 @@
 # Hello World
 
+![banner](banner.jpeg)
+
 Hello, welcome to Pairing with Me.
 
 I've noticed most technical articles detail all the related technologies and usually exceed the main topic with unnecessary information. Nowadays, people have no time to consume content. That's why shorts are trending, such as short posts, videos, etc.
